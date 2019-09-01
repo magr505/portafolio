@@ -187,3 +187,58 @@ footer .contenedor .contacto .formulario textarea{
     min-height: 100px;
     max-height: 150px;
 }
+footer .contacto .formulario .boton{
+    margin: auto;
+    background: #3895ea;
+    color: #fff;
+    border-radius: 3px;
+    padding: 15px 40px;
+}
+footer .contacto .formulario .boton:hover{
+    background: #387bae;
+}
+footer .redes-sociales{
+    background: #0b0d28;
+    padding: 60px 0;
+}
+
+footer .redes-sociales .contenedor{
+    display: flex;
+    justify-content: center;
+}
+footer .redes-sociales .contenedor a{
+    color: #fff;
+    text-align: center;
+    width: 100px;
+    font-size: 30px;
+    padding: 15px 0;
+    display: block;
+    margin: 0 20px;
+    border-radius: 3px;
+}
+footer .redes-sociales .contenedor .twitter:hover{
+    color: red;
+}
+footer .redes-sociales .contenedor .facebook:hover{
+    color: green;
+}
+footer .redes-sociales .contenedor .youtube:hover{
+    color: hotpink;
+}
+footer .redes-sociales .contenedor .github:hover{
+    color: yellow;
+}
+footer .redes-sociales .contenedor .instagram:hover{
+    color: blue;
+}
+@media screen and (max-width: 800px){
+    header .menu{
+        width: 46%;
+    }
+}
+@media screen and (max-width: 700px){
+    .main .acerca-de{
+        font-size: 30px;
+        width: 100%;
+    }
+}

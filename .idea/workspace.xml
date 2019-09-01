@@ -15,7 +15,6 @@
       <change afterPath="$PROJECT_DIR$/../miguel/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../miguel/css/estilos.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../miguel/practica.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/stylo.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../otro/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../otro/css/estilo.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../wat/.idea/vcs.xml" afterDir="false" />
@@ -23,6 +22,8 @@
       <change afterPath="$PROJECT_DIR$/../wat/img/bg.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../wat/img/foto.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../wat/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/stylo.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/stylo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../practicas1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../practicas1.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -39,8 +40,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="180" column="21" selection-start-line="180" selection-start-column="21" selection-end-line="180" selection-end-column="21" />
+            <state relative-caret-position="2845">
+              <caret line="194" column="14" lean-forward="true" selection-start-line="194" selection-start-column="14" selection-end-line="194" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -48,8 +49,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/stylo.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
-              <caret line="172" column="23" lean-forward="true" selection-start-line="172" selection-start-column="23" selection-end-line="172" selection-end-column="23" />
+            <state relative-caret-position="226">
+              <caret line="240" column="20" selection-start-line="240" selection-start-column="20" selection-end-line="240" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -95,6 +96,11 @@
               <item name="otrapagina" type="b2602c69:ProjectViewProjectNode" />
               <item name="otrapagina" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="otrapagina" type="b2602c69:ProjectViewProjectNode" />
+              <item name="otrapagina" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -137,18 +143,18 @@
       <option name="presentableId" value="Default" />
       <updated>1566769097384</updated>
       <workItem from="1566769098664" duration="4809000" />
-      <workItem from="1567364933724" duration="10850000" />
+      <workItem from="1567364933724" duration="13760000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15659000" />
+    <option name="totallyTimeSpent" value="18569000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -160,7 +166,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -196,17 +202,20 @@
     <entry file="file://$PROJECT_DIR$/css/normalize.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/font-awesome.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="180" column="21" selection-start-line="180" selection-start-column="21" selection-end-line="180" selection-end-column="21" />
+        <state relative-caret-position="2845">
+          <caret line="194" column="14" lean-forward="true" selection-start-line="194" selection-start-column="14" selection-end-line="194" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/stylo.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="172" column="23" lean-forward="true" selection-start-line="172" selection-start-column="23" selection-end-line="172" selection-end-column="23" />
+        <state relative-caret-position="226">
+          <caret line="240" column="20" selection-start-line="240" selection-start-column="20" selection-end-line="240" selection-end-column="20" />
         </state>
       </provider>
     </entry>
